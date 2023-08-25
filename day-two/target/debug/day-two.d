@@ -1,0 +1,1 @@
+/home/aditya/Projects/Rust/AoC-22/day-two/target/debug/day-two: /home/aditya/Projects/Rust/AoC-22/day-two/src/main.rs /home/aditya/Projects/Rust/AoC-22/day-two/src/part1.rs /home/aditya/Projects/Rust/AoC-22/day-two/src/part2.rs

@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"problemMatcher": [
+				"$rustc"
+			],
+			"label": "rust: cargo run with backtrace",
+			"command": "RUST_BACKTRACE=1 cargo run"
+		}
+	]
+}
