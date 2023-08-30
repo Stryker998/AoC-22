@@ -3,3 +3,5 @@ day-one/Cargo.lock
 day-two/target
 day-two/Cargo.lock
 day-two/.vscode
+day-three/target
+day-three/Cargo.lock
